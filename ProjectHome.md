@@ -1,0 +1,1 @@
+Kraken is an OSGi based security platform which helps users develop well-designed and full-featured security appliance easily.
